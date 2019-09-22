@@ -1,16 +1,16 @@
-# Welcome to Aflink9815's GitHub Pages
+# Welcome to Aflink9815's GitHub Page
 
 ## An end to another course
 
 ### CS-HU 250
 
-*This course was brief, but informative*
-_Step-by-step instruction was an improvement_
+*This course was brief, but informative.  *
+_Step-by-step instruction was an improvement._
 
 **This was a university course**
 __Learning Git and Github__
 
-_I **did** combine them_
+_I **did** combine bold and italics_
 
 # Unordered
 * Go to class
@@ -36,9 +36,9 @@ http://github.com - automatic!
 ##### Block Quotes
 As I said:
 
-> This course was brief, but informative
-> Step-by-step instruction was an improvement
+> This course was brief, but informative.  
+> Step-by-step instruction was an improvement.
 
 ###### Inline Code
 I could have used an 
-`<addr>` element here instead.
+`<addr>` element here instead, but I didn't.
